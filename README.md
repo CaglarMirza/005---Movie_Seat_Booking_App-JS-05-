@@ -5,7 +5,7 @@
 
 ## Description
 
-Link -> [Movie Seat Booking](movieseatbooking005.netlify.app)
+Link -> [Movie Seat Booking](https://movieseatbooking005.netlify.app/)
 Project aims to display movie choices and seats in a theater to select from in order to purchase tickets
 
 ## Learning Outcomes
